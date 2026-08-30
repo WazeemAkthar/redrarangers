@@ -7,29 +7,32 @@
   },
   "committee": [
     { "order": 6, "name": "Asmir", "role": "Organizer", "category": "Leadership", "image": "images/organizer.jpg" },
-    { "order": 9, "name": "Roomy bin Navas", "role": "Head Coach", "category": "Technical Staff", "image": "images/head-coach.jpg" },
-    { "order": 3, "name": "Faaris", "role": "Assistant Manager", "category": "Technical Staff", "image": "images/assistant-manager.jpg" },
-    { "order": 4, "name": "Nusry", "role": "Mentor / Treasurer", "category": "Management", "image": "images/mentor-treasurer.jpg" },
-    { "order": 5, "name": "LLB Irsath", "role": "Team Legal Adviser", "category": "Management", "image": "images/legal-adviser.jpg" },
-    { "order": 1, "name": "Nizartheen", "role": "Main Sponsor", "category": "Honorary", "image": "images/main-sponsor.jpg" },
+    { "order": 10, "name": "Roomy bin Navas", "role": "Head Coach", "category": "Technical Staff", "image": "images/head-coach.jpg" },
+    { "order": 4, "name": "Faaris", "role": "Assistant Manager", "category": "Technical Staff", "image": "images/assistant-manager.jpg" },
+    { "order": 5, "name": "Nusry", "role": "Mentor / Treasurer", "category": "Management", "image": "images/mentor-treasurer.jpg" },
+    { "order": 6, "name": "LLB Irsath", "role": "Team Legal Adviser", "category": "Management", "image": "images/legal-adviser.jpg" },
+    { "order": 2, "name": "Nizartheen", "role": "Main Sponsor", "category": "Honorary", "image": "images/main-sponsor.jpg" },
     { "order": 7, "name": "Nashit", "role": "Assistant Coach", "category": "Technical Staff", "image": "images/adviser1.jpeg" },
     { "order": 8, "name": "Fahim", "role": "Assistant Coach", "category": "Technical Staff", "image": "images/adviser2.jpeg" },
     { "order": 2, "name": "Nashit", "role": "Team Owner", "category": "Technical Staff", "image": "images/team_owner.jpeg"  },
-    { "order": 10, "name": "Zayan", "role": "Team Manager", "category": "Management", "image": "images/adviser3.jpeg" }
+    { "order": 9, "name": "Zayan", "role": "Team Manager", "category": "Management", "image": "images/adviser3.jpeg" },
+    { "order": 3, "name": "Ilham", "role": "Team Manager", "category": "Management", "image": "images/manager.jpeg" },
+    { "order": 1, "name": "Kisam", "role": "Team Manager", "category": "Management", "image": "images/sponser.jpeg" }
   
   ],
   "players": [
-    { "order": 5, "name": "Ilham", "position": "", "image": "images/players/ilham.jpg" },
-    { "order": 4, "name": "Zayan", "position": "", "image": "images/players/zayan.jpg" },
-    { "order": 3, "name": "Kisam", "position": "", "image": "images/players/kisam.jpg" },
+    { "order": 6, "name": "Ilham", "position": "", "image": "images/players/ilham.jpg" },
+    { "order": 5, "name": "Zayan", "position": "", "image": "images/players/zayan.jpg" },
+    { "order": 4, "name": "Kisam", "position": "", "image": "images/players/kisam.jpg" },
     { "order": 2, "name": "Keeper", "position": "Goalkeeper", "image": "images/players/keeper.jpg" },
     { "order": 1, "name": "Captain", "position": "Captain", "image": "images/players/captain.jpg" },
-    { "order": 6, "name": "Nashit", "position": "", "image": "images/players/player4.jpeg" },
-    { "order": 7, "name": "Fahim", "position": "", "image": "images/players/player5.jpeg" },
-    { "order": 8, "name": "Nizartheen", "position": "", "image": "images/players/player6.jpeg" },
-    { "order": 9, "name": "Asmir", "position": "", "image": "images/players/player7.jpeg" },
-    { "order": 10, "name": "Roomy bin Navas", "position": "", "image": "images/players/player8.jpeg" },
-    { "order": 11, "name": "Faaris", "position": "", "image": "images/players/player9.jpeg" },
-    { "order": 12, "name": "Nusry", "position": "", "image": "images/players/player10.jpeg" }
+    { "order": 7, "name": "Nashit", "position": "", "image": "images/players/player4.jpeg" },
+    { "order": 8, "name": "Fahim", "position": "", "image": "images/players/player5.jpeg" },
+    { "order": 9, "name": "Nizartheen", "position": "", "image": "images/players/player6.jpeg" },
+    { "order": 10, "name": "Asmir", "position": "", "image": "images/players/player7.jpeg" },
+    { "order": 11, "name": "Roomy bin Navas", "position": "", "image": "images/players/player8.jpeg" },
+    { "order": 12, "name": "Faaris", "position": "", "image": "images/players/player9.jpeg" },
+    { "order": 13, "name": "Nusry", "position": "", "image": "images/players/player10.jpeg" },
+    { "order": 3, "name": "LLB Irsath", "position": "", "image": "images/players/keeper2.jpeg" }
   ]
 }
