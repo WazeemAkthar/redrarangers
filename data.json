@@ -11,13 +11,17 @@
     { "order": 4, "name": "Faaris", "role": "Assistant Manager", "category": "Technical Staff", "image": "images/assistant-manager.jpg" },
     { "order": 7, "name": "Nusry", "role": "Mentor / Treasurer", "category": "Management", "image": "images/mentor-treasurer.jpg" },
     { "order": 8, "name": "LLB Irsath", "role": "Team Legal Adviser", "category": "Management", "image": "images/legal-adviser.jpg" },
-    { "order": 2, "name": "Nizartheen", "role": "Main Sponsor", "category": "Honorary", "image": "images/main-sponsor.jpg" },
+    { "order": 1, "name": "Nizartheen", "role": "Main Sponsor", "category": "Honorary", "image": "images/main-sponsor.jpg" },
     { "order": 9, "name": "Nashit", "role": "Assistant Coach", "category": "Technical Staff", "image": "images/adviser1.jpeg" },
     { "order": 10, "name": "Fahim", "role": "Assistant Coach", "category": "Technical Staff", "image": "images/adviser2.jpeg" },
     { "order": 2, "name": "Nashit", "role": "Team Owner", "category": "Technical Staff", "image": "images/team_owner.jpeg"  },
     { "order": 11, "name": "Zayan", "role": "Team Manager", "category": "Management", "image": "images/adviser3.jpeg" },
     { "order": 3, "name": "Ilham", "role": "Team Manager", "category": "Management", "image": "images/manager.jpeg" },
-    { "order": 5, "name": "Captain", "role": "Team Captain", "category": "Leadership", "image": "images/secr.jpeg" }
+    { "order": 5, "name": "Captain", "role": "Team Captain", "category": "Leadership", "image": "images/secr.jpeg" },
+    { "order": 15, "name": "media", "role": "media team", "category": "Leadership", "image": "images/media.jpeg" },
+    { "order": 14, "name": "Player 11", "role": "Player", "category": "Players", "image": "images/eventco.jpeg" },
+    { "order": 13, "name": "Player 12", "role": "Player", "category": "Players", "image": "images/teamco.jpeg" }
+
   
   ],
   "players": [
